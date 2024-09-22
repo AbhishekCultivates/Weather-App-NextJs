@@ -14,7 +14,8 @@ The Weather App is a dynamic and responsive web application built using Next.js,
 - **City Search**: Search for cities and view their weather data with autocomplete suggestions.
 - **Popular Cities**: Quick access to weather information for popular cities.
 - **Responsive Design**: Fully responsive and works seamlessly on both desktop and mobile devices.
-  ![Weather App Screenshots](public/screenshots/2.png)
+
+![Weather App Screenshots](public/screenshots/2.png)
 
 ## Technologies
 
